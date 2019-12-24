@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://localhost:4000/authors/jill.html</loc>
-<lastmod>2019-12-24T15:48:00+08:00</lastmod>
+<loc>/authors/jill.html</loc>
+<lastmod>2019-12-24T18:22:33+08:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/authors/ted.html</loc>
-<lastmod>2019-12-24T15:48:00+08:00</lastmod>
+<loc>/authors/ted.html</loc>
+<lastmod>2019-12-24T18:22:33+08:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/2019/12/24/self_introduction.html</loc>
+<loc>/2019/12/24/self_introduction.html</loc>
 <lastmod>2019-12-24T00:00:00+08:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/root/about.html</loc>
+<loc>/root/about.html</loc>
 </url>
 <url>
-<loc>http://localhost:4000/root/blog.html</loc>
+<loc>/root/blog.html</loc>
 </url>
 <url>
-<loc>http://localhost:4000/root/</loc>
+<loc>/root/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/root/staff.html</loc>
+<loc>/root/staff.html</loc>
 </url>
 </urlset>
