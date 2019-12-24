@@ -2,7 +2,7 @@
 
 source "https://rubygems.org"
 
-git_source(:github) {|jekyll_tutorial| "https://github.com/#{jekyll_tutorial}" }
+git_source(:github) {|jekyll_tutorial| "https://github.com/#{jekyll_tutorial}/root" }
 
 # gem "rails"
 gem "jekyll"
